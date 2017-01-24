@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.kare4u.pranaamhospitaluat"
+        versionCode="1"
+        version   = "1.0.0">
+
+
+
+  <name>Test</name>
+
+  <description>
+    Kare4U's Testing App
+  </description>
+
+  <author href="https://mobile.kare4u.in" email="info@kare4u.in">
+    Kare4U Team
+  </author>
+
+  <preference name="permissions" value="none"/>
+  <preference name="useBrowserHistory" value="true" />
+  <preference name="exit-on-suspend" value="false" />
+  <preference name="webviewbounce" value="true" />
+  <preference name="fullscreen" value="false" />
+  <preference name="orientation" value="portrait" />
+
+
+  <preference name="phonegap-version" value="cli-6.3.0" />
+
+
+
+  <icon src="icon.png" />
+
+
+
+</widget>
