@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.kare4u.pranaamhospitaluat"
+        id        = "com.kare4u.susant"
         versionCode="1"
         version   = "1.0.0">
 
@@ -29,7 +29,7 @@
 
 
 
-  <icon src="icon.png" />
+
 
 
 
